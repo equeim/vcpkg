@@ -4188,6 +4188,10 @@
       "baseline": "0.4.18",
       "port-version": 1
     },
+    "libpsl": {
+      "baseline": "0.21.2",
+      "port-version": 0
+    },
     "libqcow": {
       "baseline": "20210419",
       "port-version": 2
